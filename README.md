@@ -1,3 +1,3 @@
 # app-bestellingen
 
-This is a readme file.
+This is app is created bij SvenDb to take table orders on events.
